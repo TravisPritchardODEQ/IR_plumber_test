@@ -1,5 +1,5 @@
 #Load data
-load("E:/Documents/IR_2018_data/data/IR_data.Rdata")
+load("data/IR_data.Rdata")
 
 
 #' @serializer csv
